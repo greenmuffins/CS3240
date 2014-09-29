@@ -1,3 +1,4 @@
-__author__ = 'Peter'
+def greeting(msg):
+    print msg
 
-print 'hello'
+greeting('hello')
